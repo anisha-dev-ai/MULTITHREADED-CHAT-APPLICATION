@@ -87,3 +87,9 @@ ChatClient.java
 Connects users to the server.
 Sends messages entered by the user.
 Receives messages from other clients using a dedicated thread.
+
+OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8049b94e-feb5-4795-970c-4cd36fb35195" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/92984fa5-f038-40ca-8681-9a3794d2ff45" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c6e44722-c1e6-455a-b427-f6f4bc498810" />
